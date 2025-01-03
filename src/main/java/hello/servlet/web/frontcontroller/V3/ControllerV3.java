@@ -1,4 +1,4 @@
-package hello.servlet.web.frontcontroller.V3.controller;
+package hello.servlet.web.frontcontroller.V3;
 
 import hello.servlet.web.frontcontroller.ModelView;
 
